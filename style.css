@@ -1,0 +1,29 @@
+* {
+box-sizing: border-box;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-size: 38px;
+  font-weight: 500;
+  width: 100%;
+  height: 100vh;
+  
+}
+.container {
+  color: green;
+}
+footer {
+  position: fixed;
+  width: 100%;
+  padding: 20px;
+  color: white;
+  background: gray;
+  text-align: center;
+  bottom: 0;
+    font-size: 20px;
+  font-weight: 500;
+ 
+}
