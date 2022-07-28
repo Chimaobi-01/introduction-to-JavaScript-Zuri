@@ -1,38 +1,14 @@
-* {
-  box-sizing: border-box;
-}
-
-body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  font-size: 38px;
-  font-weight: 500;
+html, body {
   width: 100%;
   height: 100vh;
-
+  
 }
-
-.container {
-  color: green;
-}
-
 footer {
-  position: fixed;
-  width: 100%;
-  padding: 20px;
-  text-align: center;
+  position: absolute;
   bottom: 0;
-  font-size: 20px;
-  font-weight: 500;
-
-}
-@media screen and (max-width: 480px) {
-  footer {
-      font-size: 10px;
-  }
-  body {
-    font-size: 20px;
-  }
+  padding: 30px 0;
+  background: lightgrey;
+  width: 100%;
+  text-align: center ;
+  font-size: 14pt;
 }
