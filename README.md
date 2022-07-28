@@ -1,2 +1,3 @@
-https://chimaobi-01.github.io/basic-JavaScript-DOM-manipulation-/
+# Live page
+https://chimaobi-01.github.io/introduction-to-JavaScript-Zuri/
 
